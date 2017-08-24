@@ -1,0 +1,889 @@
+/* Large desktop */
+@media (min-width: 1200px) {
+.ppdate{
+	border-bottom: 2px solid blue;
+	font-size: 20px;
+    font-weight: bold;
+    line-height:24px;
+	margin-top: 35px;
+	padding: 5px;
+} 
+.bibleChapter{
+    font-size: 20px;
+    font-weight: bold;
+    line-height:24px;
+}
+
+.bibleverses{
+    margin:30px;
+}
+
+.paypalbutton{
+    float: left;
+    padding: 15px;
+    width: 45px;
+}
+
+.sspeaker{
+    background: white;
+    margin: 30px;
+    padding: 20px;
+    float: left;
+    width: 150px;
+    font-weight: bold;
+
+}
+
+.sspeaker img {
+	width: 100%;
+}
+
+.cd1{
+    	background-color: white;
+        border: 0.5px solid #99ccff;
+  	float: left;
+	margin-bottom: 5px;
+	padding: 0px;
+	width: 100%;
+}
+
+.cd2{
+	background-color: transparent;
+  	float: left;
+  	margin-bottom: 20px;
+	width: 900%;
+}
+
+.paypalbutton{
+    	background: transparent;
+        border-bottom: 0px dotted #000;
+    	float: left;
+    	margin: 0px;
+  	padding-bottom: 25px;
+    	width: 10%;
+}
+
+.sermoncontent{
+	margin: 25px;
+	padding: 25px;
+	width: 100%;
+}
+.sermonlist {
+    clear:both;
+	font-size: 14px;
+    height: auto;
+	margin: 5px;
+	padding: 5px;
+	width: 100%;
+}
+.sermondate {
+	float: left;
+	padding-left: 0px;
+	text-align: right;
+	width: 15%;
+}
+.sermontitle {
+	float: left;
+	padding-left: 15px;
+	text-align: left;
+	width: 25%;
+}
+.sermontext {
+	float: left;
+	padding-left: 5px;
+	width: 20%;
+}
+.sermonseries {
+	float: left;
+	padding-left: 5px;
+	width: 20%;
+}
+.sermonspeaker {
+	float: left;
+	padding-left: 5px;
+	width: 20%;
+}
+.sermonheader {
+    background: transparent;
+    clear:both;
+	font-size: 14px;
+	font-weight: bold;
+    width: 100%;
+    height: auto;
+} 
+.sermondateH {
+	float: left;
+	padding-left: 0px;
+	text-align: right;
+	width: 15%;
+}
+
+.sermontitleH {
+	float: left;
+	padding-left: 15px;
+	width: 25%;
+}
+
+.sermontextH {
+	float: left;
+	padding-left: 5px;
+	width: 20%;
+}
+ 
+.sermonseriesH {
+	float: left;
+	padding-left: 5px;
+	width: 20%;
+}
+
+.sermonspeakerH {
+	float: left;
+	padding-left: 5px;
+	width: 20%;
+}
+
+.sermontextdd{
+	background-color: white;
+	overflow:auto;
+	border: 0px solid red;
+	float: left;
+	font-weight: bold;
+	margin: 1px;
+	width: 33%;
+}
+ 
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 1199px) { 
+.ppdate{
+	border-bottom: 0px solid blue;
+	font-size: 20px;
+    font-weight: bold;
+    line-height:24px;
+	margin-top: 35px;
+	padding: 5px;
+} 
+.bibleChapter{
+    font-size: 20px;
+    font-weight: bold;
+    line-height:24px;
+}
+
+.bibleverses{
+    margin:30px;
+}
+
+.paypalbutton{
+    float: left;
+    padding: 15px;
+    width: 45px;
+}
+
+.sspeaker{
+    background: white;
+    margin: 30px;
+    padding: 20px;
+    float: left;
+    width: 150px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.sspeaker img {
+	width: 100%;
+}
+
+.cd1{
+    	background-color: white;
+        border: 0.5px solid #99ccff;
+  	float: left;
+	margin-bottom: 5px;
+	padding: 0px;
+	width: 100%;
+}
+
+.cd2{
+	background-color: transparent;
+  	float: left;
+  	margin-bottom: 20px;
+	width: 900%;
+}
+
+.paypalbutton{
+    	background: transparent;
+        border-bottom: 0px dotted #000;
+    	float: left;
+    	margin: 0px;
+  	padding-bottom: 25px;
+    	width: 10%;
+}
+
+.sermoncontent{
+	margin: 25px;
+	padding: 25px;
+	width: 100%;
+}
+.sermonlist {
+    clear:both;
+	font-size: 10px;
+   	height: auto;
+	margin: 5px;
+	padding: 5px;
+	width: 100%;
+}
+.sermondate {
+	float: left;
+	padding-left: 1px;
+	width: 15%;
+}
+.sermontitle {
+	float: left;
+	padding-left: 1px;
+	text-align: left;
+	width: 25%;
+}
+.sermontext {
+	float: left;
+	padding-left: 1px;
+	width: 20%;
+}
+.sermonseries {
+	float: left;
+	padding-left: 2px;
+	width: 20%;
+}
+.sermonspeaker {
+	float: left;
+	padding-left: 2px;
+	width: 20%;
+}
+.sermonheader {
+    	background: transparent;
+        clear:both;
+	font-size: 10px;
+	font-weight: bold;
+    	width: 100%;
+    	height: auto;
+} 
+.sermondateH {
+	float: left;
+	padding-left: 1px;
+	width: 15%;
+}
+
+.sermontitleH {
+	float: left;
+	padding-left: 1px;
+	width: 25%;
+}
+
+.sermontextH {
+	float: left;
+	padding-left: 1px;
+	width: 20%;
+}
+ 
+.sermonseriesH {
+	float: left;
+	padding-left: 1px;
+	width: 20%;
+}
+
+.sermonspeakerH {
+	float: left;
+	padding-left: 1px;
+	width: 20%;
+}
+
+.sermontextdd{
+	background-color: white;
+	overflow:auto;
+	border: 0px solid red;
+	float: left;
+	font-weight: bold;
+	margin: 1px;
+	width: 250px;
+}
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { 
+.bibleChapter{
+    font-size: 10px;
+    font-weight: bold;
+    line-height:14px;
+}
+
+.bibleverses{
+    margin:10px;
+}
+
+.paypalbutton{
+    float: left;
+    padding: 5px;
+    width: 25px;
+}
+
+.sspeaker{
+    background: white;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    width: 100px;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.sspeaker img {
+	width: 100%;
+}
+
+.cd1{
+    	background-color: white;
+        border: 0.5px solid #99ccff;
+  	float: left;
+	margin-bottom: 5px;
+	padding: 0px;
+	width: 100%;
+}
+
+.cd2{
+	background-color: transparent;
+  	float: left;
+  	margin-bottom: 20px;
+	width: 900%;
+}
+
+.paypalbutton{
+    	background: transparent;
+        border-bottom: 0px dotted #000;
+    	float: left;
+    	margin: 0px;
+  	padding-bottom: 5px;
+    	width: 10%;
+}
+
+.sermoncontent{
+	margin: 5px;
+	padding: 5px;
+	width: 100%;
+}
+.sermonlist {
+        clear:both;
+	font-size: 10px;
+    	height: auto;
+	margin: 5px;
+	padding: 5px;
+	width: 100%;
+}
+
+.sermonheader {
+        clear:both;
+	font-size: 10px;
+	font-weight: bold;
+    	height: auto;
+	margin: 5px;
+	padding: 5px;
+	width: 100%;
+} 
+ 
+.sermondate, .sermondateH{
+	border-top: 1px solid blue;
+	float: left;
+	font-weight: bold;
+	padding-left: 1px;
+	width: 20%;
+}
+.sermontitle, .sermontitleH{
+	border-top: 1px solid blue;
+	float: left;
+	padding-left: 1px;
+	text-align: left;
+	width: 50%;
+}
+.sermontext, .sermontextH {
+	border-top: 1px solid blue;
+	float: left;
+	padding-left: 1px;
+	text-align: right;
+	width: 30%;
+}
+.sermonseries, .sermonseriesH {
+
+	float: left;
+	padding-left: 1px;
+	text-align: left;
+	width: 70%;
+}
+.sermonspeaker, .sermonspeakerH {
+	float: left;
+	padding-left: 1px;
+	text-align: right;
+	width: 30%;
+}
+
+.sermontextdd{
+	background-color: white;
+	overflow:auto;
+	border: 0px solid red;
+	float: left;
+	font-weight: bold;
+	margin: 1px;
+	width: 100%;
+}
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+.bibleChapter{
+    font-size: 10px;
+    font-weight: bold;
+    line-height:14px;
+}
+
+.bibleverses{
+    margin:10px;
+}
+
+.paypalbutton{
+    float: left;
+    padding: 5px;
+    width: 25px;
+}
+
+.sspeaker{
+    background: white;
+    margin: 10px;
+    padding: 5px;
+    float: left;
+    width: 100px;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.sspeaker img {
+	width: 100%;
+}
+
+.cd1{
+    	background-color: white;
+        border: 0.5px solid #99ccff;
+  	float: left;
+	margin-bottom: 5px;
+	padding: 0px;
+	width: 100%;
+}
+
+.cd2{
+	background-color: transparent;
+  	float: left;
+  	margin-bottom: 20px;
+	width: 900%;
+}
+
+.paypalbutton{
+    	background: transparent;
+        border-bottom: 0px dotted #000;
+    	float: left;
+    	margin: 0px;
+  	padding-bottom: 5px;
+    	width: 10%;
+}
+
+.sermoncontent{
+	margin: 5px;
+	padding: 5px;
+	width: 100%;
+}
+.sermonlist {
+        clear:both;
+	font-size: 10px;
+    	height: auto;
+	margin: 5px;
+	padding: 5px;
+	width: 100%;
+}
+
+.sermonheader {
+        clear:both;
+	font-size: 10px;
+	font-weight: bold;
+    	height: auto;
+	margin: 5px;
+	padding: 5px;
+	width: 100%;
+} 
+ 
+.sermondate, .sermondateH{
+	border-top: 1px solid blue;
+	float: left;
+	padding-left: 1px;
+	width: 35%;
+}
+.sermontitle, .sermontitleH{
+	border-top: 1px solid blue;
+	float: left;
+	padding-left: 1px;
+	text-align: right;
+	width: 65%;
+}
+.sermontext, .sermontextH {
+	border-top: 0px solid blue;
+	float: left;
+	padding-left: 1px;
+	text-align: left;
+	width: 35%;
+}
+.sermonseries, .sermonseriesH {
+	display: none;
+}
+.sermonspeaker, .sermonspeakerH {
+	float: left;
+	padding-left: 1px;
+	text-align: right;
+	width: 65%;
+}
+
+.sermontextdd{
+	background-color: white;
+	overflow:auto;
+	border: 0px solid red;
+	float: left;
+	font-weight: bold;
+	margin: 1px;
+	width: 100%;
+}
+ 
+}
+
+.audioplayer{
+   border: 1px;
+   float: left;
+   padding: 5px;
+}
+.sermonpassage{
+    clear: both;
+    width: 100%;
+   border: 1px;
+   padding: 5px;
+}
+
+.ppbutton {
+    float: right;
+    width: 10px;
+}
+
+/* Pagination */
+.pagination {
+clear:both;
+padding:20px 0;
+position:relative;
+font-size:11px;
+line-height:13px;
+}
+ 
+.pagination span, .pagination a {
+display:block;
+float:left;
+margin: 2px 2px 2px 0;
+padding:6px 9px 5px 9px;
+text-decoration:none;
+width:auto;
+color:#000;
+background: #fff;
+}
+ 
+.pagination a:hover{
+color:#fff;
+background: #3279BB;
+}
+ 
+.pagination .current{
+padding:6px 9px 5px 9px;
+background: #3279BB;
+color:#fff;
+}
+/* The Nivo Slider styles */
+.nivoSlider {
+	position:relative;
+	height:370px;
+}
+.nivoSlider img {
+	position:absolute;
+	top:0px;
+	left:0px;
+	border:none;
+}
+/* If an image is wrapped in a link */
+.nivoSlider a.nivo-imageLink {
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:640px;
+	height:100%;
+	border:0;
+	padding:0;
+	margin:0;
+	z-index:60;
+	display:none;
+}
+/* The slices in the Slider */
+.nivo-slice {
+	display:block;
+	position:absolute;
+	z-index:50;
+	height:100%;
+}
+/* Caption styles */
+.nivo-caption {
+	position:absolute;
+	left:0px;
+	bottom:0px;
+	background:#000;
+	color:#fff;
+	opacity:0.8; /* Overridden by captionOpacity setting */
+	width:100%;
+	z-index:89;
+}
+.nivo-caption p {
+	padding:20px 20px;
+	margin:0;
+	font-size:12px;
+}
+/* Direction nav styles (e.g. Next & Prev) */
+.nivo-directionNav a {
+	position:absolute;
+	top:35%;
+	z-index:99;
+	cursor:pointer;
+}
+.nivo-prevNav {
+	left:15px;
+	width:47px;
+	height:47px;
+	display:block;
+	background:url(../images/but_prev.png) 0 0 no-repeat;
+	text-indent:-9999px;
+}
+.nivo-nextNav {
+	right:15px;
+	width:47px;
+	height:47px;
+	display:block;
+	background:url(../images/but_next.png) 0 0 no-repeat;
+	text-indent:-9999px;
+}
+/* Control nav styles (e.g. 1,2,3...) */
+
+.nivo-controlNav {
+	padding-top:25px;
+	text-align:center;
+	overflow:hidden;
+	margin-left:25px;
+}
+
+.nivo-controlNav a {
+	position:relative;
+	z-index:99;
+	cursor:pointer;
+	display:block;
+	float:left;
+	background:url(../images/slider_controlnav.png) -20px 0 no-repeat;
+	text-indent:-9999px;
+	width:20px;
+	height:20px;
+	
+}
+.nivo-controlNav a.active {
+	font-weight:bold;
+	background:url(../images/slider_controlnav.png) 0 0 no-repeat;
+}
+
+.spacer {
+	height: 20px;
+}
+
+/* homeboxes */
+
+#homeBoxes {
+	overflow:hidden;
+	background: white;
+	border: 0px solid #ffc6a5;
+	margin-bottom: 0px;
+}
+
+.homeBox{
+	
+	            border:0px solid #1fa2e1;
+	            width:250px;
+	            float:left;
+	            height:380px;
+	            margin-left:5px;
+	            background:grey;
+	      }
+
+.homeBox h3{
+	color: #C0C0C0;
+} 
+#homeBoxes .homeBoxL {
+	border:0px inset #f8f8f8;
+	width:630px;
+	float:left;
+	height: 480px;
+	margin-bottom:50px;
+	padding: 0px;
+	background: transparent; 
+}
+#homeBoxes .homeBox img {
+	border:0px solid #E2E2E2;
+	width: 100%
+	background:#fff;
+	padding:1px;
+}
+
+#homeBoxes .homeBox img:hover {
+	border-color:#F9F9F9;
+}
+
+
+#homeBoxes .last{
+	margin-right:0;
+}
+
+#homeBoxes .homeBox h3 {
+	font-color: #00ff00;
+	font-weight:bold;
+}
+
+/* Grid >> Children (Alpha ~ First, Omega ~ Last)
+----------------------------------------------------------------------------------------------------*/
+.alpha {
+    margin-left: 0
+}
+.omega {
+    margin-right: 0
+}
+
+.pagepost .date {
+	background: url(images/sprite_master.png) -325px top no-repeat;
+	padding: 0 0 4px;
+	text-align: center;
+	display: block;
+	width: 40px;
+	margin-right: 10px;
+	float: left;
+}
+.pagepost .date.with-year {
+	margin-top: -5px;
+	padding-bottom: 0;
+}
+.pagepost .date span {
+	display: block;
+}
+.pagepost .date .month {
+	font: normal 8px tahoma;
+	text-transform: uppercase;
+	padding-top: 2px;
+	color: #fff;
+	height: 12px;
+}
+.pagepost .date .day {
+	font: bold 19px tahoma;
+	color: #fff;
+	text-shadow: 0 -1px 0 #111;
+}
+.pagepost .date .year {
+	font: bold 10px tahoma;
+	color: #000;
+	margin-top: 3px;
+}
+
+.menu-ql-container{
+	background: #1fa2e1;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font: bold 12px verdana, sans serif;
+	font-color: #fff;
+	padding: 2px;
+	text-align:center;
+}
+.menu-ql-container li a {
+	font-color: #fff;
+	font-size:18px;
+	line-height:100%;
+	padding-bottom:10px;
+	padding-top: 25px;
+}
+#blurb {
+	color: #1fa2e1;
+	-moz-border-radius:8px; 
+	-webkit-border-radius:8px;
+	border-top:1px solid #BDBDBD; 
+	border-left:1px solid #BDBDBD; 
+	border-bottom:1px solid #fff; 
+	border-right:1px solid #fff;
+	padding:15px 20px 25px;  
+	text-shadow:1px 1px #fff;
+	background:url(images/bk_blurb.jpg) 0 100% repeat-x;
+	font-size:14px;
+	line-height:130%;
+	margin-bottom:25px;
+}
+
+/* HEADER ELEMENTS
+-----------------------------------*/
+
+/* -- logo --*/
+#logo {
+	position:absolute;
+	top:5px;
+	left:50;
+}
+
+#logo a img{
+	border-bottom:0px solid #000;
+	vertical-align:middle;
+}
+
+#mainMenu {
+	font-size:14px;
+	font-color:##A8A8A8;
+	position:absolute;
+	left:300px;
+	top:65;
+}
+
+#mainMenu ul li{
+	float:left;
+}
+
+#mainMenu ul li a {
+	display:block;
+	height:49px;
+	color:#A8A8A8 ;
+	padding:36px 18px 0;
+	font-size:17px;
+	background: url(images/bk_mainmenu.png) 0 -78px no-repeat;
+}
+
+#mainMenu ul li a span {
+	font-size:14px;	
+	color:#A8A8A8 ;
+	line-height:120%;
+}
+
+#mainMenu ul li a:hover {
+	text-decoration:none;
+	background:url(images/bk_mainmenu.png) 0 0 repeat-x;
+	color:#fff;
+}
+
+
+#mainMenu ul li ul li a:hover{
+	background:#fff;
+}
+
+#content #colLeft  ul li, #content #colLeft ol li  {
+	padding:5px 0 5px 25px;
+	background: white;
+}

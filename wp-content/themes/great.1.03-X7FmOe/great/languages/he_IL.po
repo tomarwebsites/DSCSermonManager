@@ -1,0 +1,881 @@
+# This file is distributed under the same license as the Great package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Great\n"
+"POT-Creation-Date: 2017-02-20 21:05+0300\n"
+"PO-Revision-Date: 2017-02-21 01:35+0300\n"
+"Last-Translator: \n"
+"Language-Team: Alvele.com\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_ex;_x;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "העמוד לא נמצא."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "נראה כי אין כאן כלום. אולי כדאי לנסות את אפשרות החיפוש."
+
+#: comments.php:36 comments.php:57
+msgid "Comment navigation"
+msgstr "ניווט תגובות"
+
+#: comments.php:39 comments.php:60
+msgid "Older Comments"
+msgstr "תגובות ישנות"
+
+#: comments.php:40 comments.php:61
+msgid "Newer Comments"
+msgstr "תגובות חדשות"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "סגור לתגובות."
+
+#: comments.php:83
+msgid "Name"
+msgstr "שם"
+
+#: comments.php:84 inc/options-config.php:532 inc/options-config.php:538
+#: inc/options-config.php:544
+msgid "Email"
+msgstr "אימייל"
+
+#: comments.php:85
+msgid "Website"
+msgstr "אתר"
+
+#: comments.php:90
+msgid "Post Comment"
+msgstr "להגיב"
+
+#: comments.php:92
+msgid "Comment"
+msgstr "התגובה שלך"
+
+#: comments.php:93
+msgid "Cancel reply"
+msgstr "לבטל"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "לא נמצא"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "מוכן לפרסם את הפוסט הראשון שלך? <a href=\"%1$s\">התחל כאן</a>."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "לא נמצאו תוצאות התואמות לביטוי החיפוש, ניתן לנסות שוב עם ביטויים אחרים."
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "נראה כי לא ניתן למצוא את מה שחיפשת, אולי חיפוש יעזור."
+
+#: content-page.php:25 inc/template-tags.php:42 inc/template-tags.php:210
+#: inc/template-tags.php:223
+msgid "Edit"
+msgstr "עריכה"
+
+#: content-page.php:36 content-single.php:27 content.php:36
+msgid "Pages:"
+msgstr "עמודים:"
+
+#: content.php:28
+msgid "Continue reading %s"
+msgstr "להמשיך לקרוא %s"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "תפריט ראשי"
+
+#: functions.php:56
+msgid "Footer Menu"
+msgstr "תפריט כותרת תחתית"
+
+#: functions.php:104 inc/options-config.php:843
+msgid "Sidebar"
+msgstr " סרגל צדדי"
+
+#: functions.php:113 inc/options-config.php:72 inc/options-config.php:145
+#: inc/options-config.php:218 inc/options-config.php:275
+#: inc/options-config.php:356 inc/options-config.php:483
+#: inc/options-config.php:598 inc/options-config.php:998
+#: inc/options-config.php:1043
+msgid "Header"
+msgstr "תמונת כותרת"
+
+#: functions.php:122 inc/options-config.php:650 inc/options-config.php:798
+msgid "Front Page"
+msgstr "עמוד ראשי"
+
+#: functions.php:131 functions.php:140 functions.php:149
+#: inc/options-config.php:380 inc/options-config.php:604
+#: inc/options-config.php:763 inc/options-config.php:1097
+msgid "Footer"
+msgstr "תחתית"
+
+#: functions.php:131
+msgid "Left"
+msgstr "לשמאל"
+
+#: functions.php:140
+msgid "Center"
+msgstr "למרכז"
+
+#: functions.php:149
+msgid "Right"
+msgstr "לימין"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "דילוג לתוכן"
+
+#: header.php:61 inc/options-config.php:1152
+msgid "Menu"
+msgstr "תפריט"
+
+#: header.php:63
+msgid "Close"
+msgstr "סגור"
+
+#: image.php:24
+msgid "Previous"
+msgstr "קודם"
+
+#: image.php:25
+msgid "Next"
+msgstr "הבא"
+
+#: inc/admin/class.customized-controls.php:36
+#: inc/admin/class.customized-controls.php:59
+#: inc/admin/class.customized-controls.php:108
+msgid "Upgrade"
+msgstr "שדרוג"
+
+#: inc/admin/class.customized-controls.php:182
+msgid "Do you like this theme?"
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:184
+msgid "Please write a review and to promote your website!"
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:188
+msgid "Support Forums"
+msgstr "פורום תמיכה"
+
+#: inc/admin/class.customizer-api-wrapper.php:258 inc/options-config.php:7
+#: inc/options-config.php:906
+msgid "Hide"
+msgstr "הסתר"
+
+#: inc/extras.php:67
+msgid "Page %s"
+msgstr "עמוד %s"
+
+#: inc/extras.php:124 inc/options-config.php:718 inc/options-config.php:719
+#: inc/options-config.php:1135
+msgid "Read more..."
+msgstr "להמשך קריאה..."
+
+#: inc/extras.php:224
+#, php-format
+msgid "Copyright &copy; %1$d %2$s."
+msgstr ""
+
+#: inc/extras.php:224
+msgid "Powered by WordPress"
+msgstr "פועל על וורדפרס"
+
+#: inc/extras.php:224
+#, php-format
+msgid "<span>%s is using the Great WordPress theme</span>"
+msgstr ""
+
+#: inc/featured-pages.php:35 inc/options-config.php:323
+msgid "Learn More"
+msgstr "למד עוד"
+
+#: inc/options-config.php:15 inc/options-config.php:67
+#: inc/options-config.php:135 inc/options-config.php:207
+#: inc/options-config.php:270 inc/options-config.php:993
+#: inc/options-config.php:1038
+#, php-format
+msgid "First, please enable '%s' widget."
+msgstr ""
+
+#: inc/options-config.php:15 inc/options-config.php:37
+#: inc/options-config.php:966 inc/widgets/widget-slider.php:10
+msgid "Slider"
+msgstr ""
+
+#: inc/options-config.php:21
+msgid "Hide texts"
+msgstr ""
+
+#: inc/options-config.php:27 inc/options-config.php:611
+msgid "Style"
+msgstr "סגנון"
+
+#: inc/options-config.php:42 inc/options-config.php:304
+msgid "Select Page"
+msgstr "בחירת עמוד"
+
+#: inc/options-config.php:42 inc/options-config.php:304
+msgid "Featured Image"
+msgstr "תמונה ראשית"
+
+#: inc/options-config.php:42 inc/options-config.php:304
+msgid "(required)"
+msgstr "(חובה)"
+
+#: inc/options-config.php:50 inc/options-config.php:83
+#: inc/options-config.php:101 inc/options-config.php:156
+#: inc/options-config.php:229 inc/options-config.php:286
+#: inc/options-config.php:436 inc/options-config.php:1009
+#: inc/options-config.php:1054 inc/options-config.php:1141
+msgid "Icon"
+msgstr "אייקון"
+
+#: inc/options-config.php:55 inc/options-config.php:122
+#: inc/options-config.php:195 inc/options-config.php:258
+#: inc/options-config.php:340 inc/options-config.php:430
+#: inc/options-config.php:526 inc/options-config.php:544
+#: inc/options-config.php:562 inc/options-config.php:580
+msgid "Custom Link"
+msgstr "קישורים"
+
+#: inc/options-config.php:67 inc/options-config.php:978
+#: inc/widgets/widget-services.php:10
+msgid "Services"
+msgstr ""
+
+#: inc/options-config.php:77 inc/options-config.php:112
+#: inc/options-config.php:150 inc/options-config.php:185
+#: inc/options-config.php:223 inc/options-config.php:253
+#: inc/options-config.php:280 inc/options-config.php:446
+#: inc/options-config.php:448 inc/options-config.php:780
+#: inc/options-config.php:1003 inc/options-config.php:1048
+#: inc/options-config.php:1078 inc/options-config.php:1105
+msgid "Title"
+msgstr "כותרת"
+
+#: inc/options-config.php:88 inc/options-config.php:117
+#: inc/options-config.php:161 inc/options-config.php:190
+#: inc/options-config.php:234 inc/options-config.php:291
+#: inc/options-config.php:368 inc/options-config.php:392
+#: inc/options-config.php:410 inc/options-config.php:1059
+msgid "Description"
+msgstr "תיאור"
+
+#: inc/options-config.php:96
+msgid "Service"
+msgstr "שירות"
+
+#: inc/options-config.php:107 inc/options-config.php:180
+#: inc/options-config.php:442 inc/options-config.php:936
+#: inc/options-config.php:1123 inc/options-config.php:1147
+msgid "Color"
+msgstr "צבע"
+
+#: inc/options-config.php:135 inc/options-config.php:982
+#: inc/widgets/widget-projects.php:10
+msgid "Projects"
+msgstr ""
+
+#: inc/options-config.php:140 inc/options-config.php:212
+#: inc/options-config.php:488
+msgid "Suggested image dimensions:"
+msgstr "מימדי תמונה מוצעים:"
+
+#: inc/options-config.php:169
+msgid "Project"
+msgstr "פרויקט"
+
+#: inc/options-config.php:175
+msgid "Image"
+msgstr "תמונה"
+
+#: inc/options-config.php:207 inc/options-config.php:986
+#: inc/widgets/widget-clients.php:10
+msgid "Clients"
+msgstr ""
+
+#: inc/options-config.php:242
+msgid "Client"
+msgstr ""
+
+#: inc/options-config.php:248 inc/options-config.php:855
+#: inc/options-config.php:860 inc/options-config.php:870
+#: inc/options-config.php:881 inc/options-config.php:892
+msgid "Logo"
+msgstr ""
+
+#: inc/options-config.php:270 inc/options-config.php:970
+#: inc/widgets/widget-featured.php:10
+msgid "Featured Pages"
+msgstr ""
+
+#: inc/options-config.php:299 inc/template-tags.php:299
+msgid "Page"
+msgstr "עמוד"
+
+#: inc/options-config.php:311
+msgid "Page title"
+msgstr "כותרות עמוד"
+
+#: inc/options-config.php:317
+msgid "Alternative Text"
+msgstr "טקסט חלופי"
+
+#: inc/options-config.php:322
+msgid "Button Text"
+msgstr ""
+
+#: inc/options-config.php:329
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/options-config.php:335
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/options-config.php:351 inc/options-config.php:486
+msgid "Hint"
+msgstr ""
+
+#: inc/options-config.php:353
+msgid "If you want to hide the icon, set the icon field as empty."
+msgstr ""
+
+#: inc/options-config.php:361 inc/options-config.php:385
+msgid "Enable"
+msgstr "ערכה פעילה"
+
+#: inc/options-config.php:373 inc/options-config.php:397
+#: inc/options-config.php:415 inc/options-config.php:860
+msgid "Size"
+msgstr "גודל"
+
+#: inc/options-config.php:404
+msgid "Social Widget"
+msgstr ""
+
+#: inc/options-config.php:454
+msgid "Enter the URL"
+msgstr "כתובת URL"
+
+#: inc/options-config.php:459
+msgid "Open link in a new window/tab"
+msgstr "הקישור יפתח בלשונית חדשה"
+
+#: inc/options-config.php:479
+msgid "Great Theme Options"
+msgstr ""
+
+#: inc/options-config.php:493
+msgid "Logo Upload"
+msgstr "העלאת לוגו"
+
+#: inc/options-config.php:498
+msgid "Site Icon"
+msgstr "סמל אתר"
+
+#: inc/options-config.php:504
+msgid "A search form for your site."
+msgstr "טופס חיפוש של האתר."
+
+#: inc/options-config.php:509 inc/options-config.php:585
+msgid "Contact Info"
+msgstr "מידע ליצירת קשר"
+
+#: inc/options-config.php:514 inc/options-config.php:520
+#: inc/options-config.php:526
+msgid "Address"
+msgstr "כתובת"
+
+#: inc/options-config.php:520 inc/options-config.php:538
+#: inc/options-config.php:556 inc/options-config.php:574
+#: inc/options-config.php:665 inc/options-config.php:758
+#: inc/options-config.php:786 inc/options-config.php:930
+#: inc/options-config.php:1157 inc/options-config.php:1173
+msgid "Text color"
+msgstr "צבע טקסט"
+
+#: inc/options-config.php:550 inc/options-config.php:556
+#: inc/options-config.php:562
+msgid "Phone Number"
+msgstr "מספר טלפון"
+
+#: inc/options-config.php:568 inc/options-config.php:574
+#: inc/options-config.php:580
+msgid "Hours"
+msgstr "שעות"
+
+#: inc/options-config.php:569
+msgid "Monday"
+msgstr "יום שני"
+
+#: inc/options-config.php:569
+msgid "Friday"
+msgstr "יום שישי"
+
+#: inc/options-config.php:590 inc/options-config.php:848
+#: inc/options-config.php:892 inc/options-config.php:912
+#: inc/options-config.php:1025
+msgid "Alignment"
+msgstr "יישור"
+
+#: inc/options-config.php:593 inc/options-config.php:852
+#: inc/options-config.php:895 inc/options-config.php:1028
+msgid "Align Left"
+msgstr "יישור לשמאל"
+
+#: inc/options-config.php:594 inc/options-config.php:851
+#: inc/options-config.php:897 inc/options-config.php:1030
+msgid "Align Right"
+msgstr "יישר לימין"
+
+#: inc/options-config.php:611
+msgid "Display Settings"
+msgstr "הגדרות תצוגה"
+
+#: inc/options-config.php:615
+msgid "Primary Color"
+msgstr "צבע"
+
+#: inc/options-config.php:622 inc/options-config.php:640
+#: inc/options-config.php:943
+msgid "Background Image"
+msgstr "תמונת רקע"
+
+#: inc/options-config.php:622 inc/options-config.php:627
+#: inc/options-config.php:633
+msgid "Content"
+msgstr "תוכן"
+
+#: inc/options-config.php:627
+msgid "Border color"
+msgstr "צבע מסגרת"
+
+#: inc/options-config.php:633 inc/options-config.php:645
+#: inc/options-config.php:768 inc/options-config.php:774
+msgid "Background color"
+msgstr "צבע רקע"
+
+#: inc/options-config.php:640 inc/options-config.php:645
+#: inc/options-config.php:774 inc/options-config.php:780
+#: inc/options-config.php:786
+msgid "Widgets"
+msgstr "וידג'טים"
+
+#: inc/options-config.php:655
+msgid "Your latest posts"
+msgstr "פוסטים אחרונים"
+
+#: inc/options-config.php:660
+msgid "All Posts"
+msgstr "כל הפוסטים"
+
+#: inc/options-config.php:671 inc/options-config.php:1136
+msgid "Link Text"
+msgstr "טקסט לקישור"
+
+#: inc/options-config.php:677 inc/options-config.php:923
+#: inc/options-config.php:1179
+msgid "Font Sizes"
+msgstr "גדלי פונטים"
+
+#: inc/options-config.php:684
+msgid "Enable featured image header for pages"
+msgstr ""
+
+#: inc/options-config.php:690
+msgid "Enable featured image header for posts"
+msgstr ""
+
+#: inc/options-config.php:696
+msgid "Posts navigation"
+msgstr "ניווט"
+
+#: inc/options-config.php:701
+msgid "Excerpt View"
+msgstr "תצוגת תקצירים"
+
+#: inc/options-config.php:706
+msgid "Auto excerpt length"
+msgstr ""
+
+#: inc/options-config.php:712
+msgid "..."
+msgstr ""
+
+#: inc/options-config.php:713
+msgid "More string at the end of the excerpt"
+msgstr ""
+
+#: inc/options-config.php:723
+msgid "Metadata"
+msgstr "פרטי מידע"
+
+#: inc/options-config.php:728 inc/options-config.php:1090
+msgid "Display post date?"
+msgstr "הצגת תאריך?"
+
+#: inc/options-config.php:734
+msgid "Comments Count &amp; Link"
+msgstr ""
+
+#: inc/options-config.php:740
+msgid "Display item author if available?"
+msgstr "להציג את המחבר, במידת האפשר?"
+
+#: inc/options-config.php:746
+msgid "View Category"
+msgstr "הצג קטגוריה"
+
+#: inc/options-config.php:752
+msgid "View Tag"
+msgstr "הצג תגית"
+
+#: inc/options-config.php:794
+msgid "Reading Settings"
+msgstr "הגדרות קריאה"
+
+#: inc/options-config.php:801 inc/options-config.php:809
+#: inc/options-config.php:817
+msgid "Summary"
+msgstr "תקצירים"
+
+#: inc/options-config.php:802 inc/options-config.php:810
+#: inc/options-config.php:818
+msgid "Full text"
+msgstr "תכנים מלאים"
+
+#: inc/options-config.php:806 inc/template-tags.php:124
+msgid "Archives"
+msgstr "ארכיון"
+
+#: inc/options-config.php:814
+msgid "Search Results"
+msgstr "תוצאות חיפוש"
+
+#: inc/options-config.php:823
+msgid "Layout"
+msgstr "פריסה"
+
+#: inc/options-config.php:827
+msgid "Site size"
+msgstr ""
+
+#: inc/options-config.php:830 inc/options-config.php:951
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: inc/options-config.php:831
+msgid "Full Size"
+msgstr "גודל מלא"
+
+#: inc/options-config.php:832 inc/options-config.php:836
+msgid "Custom Size"
+msgstr "גודל מותאם"
+
+#: inc/options-config.php:860
+msgid "Set to 0 for default."
+msgstr ""
+
+#: inc/options-config.php:870
+msgid "Vertical space"
+msgstr "רווח אנכי"
+
+#: inc/options-config.php:881
+msgid "Horizontal space"
+msgstr "רווח אופקי"
+
+#: inc/options-config.php:896 inc/options-config.php:1029
+msgid "Align Center"
+msgstr "יישור למרכז"
+
+#: inc/options-config.php:902
+msgid "Menu Settings"
+msgstr "הגדרות תפריט"
+
+#: inc/options-config.php:906
+msgid "Main menu"
+msgstr "תפריט ראשי"
+
+#: inc/options-config.php:915
+msgid "Align center"
+msgstr "יישור למרכז"
+
+#: inc/options-config.php:916
+msgid "Align left"
+msgstr "יישור לשמאל"
+
+#: inc/options-config.php:917
+msgid "Align right"
+msgstr "יישר לימין"
+
+#: inc/options-config.php:948
+msgid "Image size"
+msgstr ""
+
+#: inc/options-config.php:952
+msgid "Fit to menu"
+msgstr ""
+
+#: inc/options-config.php:956
+msgid "Background Position"
+msgstr ""
+
+#: inc/options-config.php:959
+msgid "Top"
+msgstr "למעלה"
+
+#: inc/options-config.php:960
+msgid "Bottom"
+msgstr "תחתית"
+
+#: inc/options-config.php:974
+msgid "Social Media"
+msgstr "מדיה חברתית"
+
+#: inc/options-config.php:990 inc/options-config.php:993
+#: inc/widgets/widget-about.php:10
+msgid "About"
+msgstr "אודות"
+
+#: inc/options-config.php:1014
+msgid "In a few words, explain what this site is about."
+msgstr "במה עוסק האתר, במספר מילים."
+
+#: inc/options-config.php:1020
+msgid "Add an About page"
+msgstr "הוספת עמוד אודות"
+
+#: inc/options-config.php:1035 inc/options-config.php:1038
+#: inc/widgets/widget-blog.php:10
+msgid "Blog"
+msgstr "בלוג"
+
+#: inc/options-config.php:1063
+msgid "Source"
+msgstr "מקור"
+
+#: inc/options-config.php:1069
+msgid "Select Category"
+msgstr "בחירת קטגוריה"
+
+#: inc/options-config.php:1073
+msgid "Display Options"
+msgstr "אפשרויות תצוגה"
+
+#: inc/options-config.php:1084
+msgid "Display item content?"
+msgstr "להציג את התוכן?"
+
+#: inc/options-config.php:1100 inc/options-config.php:1111
+#: inc/options-config.php:1123
+msgid "Quote"
+msgstr "ציטוט"
+
+#: inc/options-config.php:1118
+msgid "Author"
+msgstr "מחבר"
+
+#: inc/options-config.php:1130 inc/options-config.php:1147
+msgid "Link"
+msgstr "קישור"
+
+#: inc/options-config.php:1162
+msgid "Footer information text"
+msgstr ""
+
+#: inc/options-config.php:1168
+msgid "Text"
+msgstr "עורך טקסט"
+
+#: inc/options-config.php:1190
+msgid "Advanced Options"
+msgstr "הגדרות מתקדמות"
+
+#: inc/options-config.php:1194
+msgid "Custom CSS Styles"
+msgstr "סגנון קוד עיצוב מותאם אישית"
+
+#: inc/options-config.php:1200
+msgid "Restore Defaults"
+msgstr "לשחזר את ברירות מחדל"
+
+#: inc/options-config.php:1205 inc/template-tags.php:109
+msgid "Links"
+msgstr "קישורים"
+
+#: inc/options-config.php:1253
+msgid "Refresh the page to view full effects."
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "Leave a comment"
+msgstr "השאירו תגובה"
+
+#: inc/template-tags.php:38
+msgid "1 Comment"
+msgstr "תגובה אחת"
+
+#: inc/template-tags.php:38
+msgid "% Comments"
+msgstr "% תגובות"
+
+#: inc/template-tags.php:52
+msgid "Featured"
+msgstr "ראשי"
+
+#: inc/template-tags.php:65 inc/template-tags.php:71
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+msgid "Category: %s"
+msgstr "קטגוריות: %s"
+
+#: inc/template-tags.php:88
+msgid "Tag: %s"
+msgstr "תגית: %s"
+
+#: inc/template-tags.php:90
+msgid "Author: %s"
+msgstr "מחבר: %s"
+
+#: inc/template-tags.php:92
+msgid "Year: %s"
+msgstr "שנה: %s"
+
+#: inc/template-tags.php:92
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:94
+msgid "Month: %s"
+msgstr "חודש: %s"
+
+#: inc/template-tags.php:94
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:96
+msgid "Day: %s"
+msgstr "יום: %s"
+
+#: inc/template-tags.php:96
+msgid "F j, Y"
+msgstr "j בF Y"
+
+#: inc/template-tags.php:99
+msgid "Asides"
+msgstr "הערות"
+
+#: inc/template-tags.php:101
+msgid "Galleries"
+msgstr "גלריות"
+
+#: inc/template-tags.php:103
+msgid "Images"
+msgstr "תמונות"
+
+#: inc/template-tags.php:105
+msgid "Videos"
+msgstr "וידאו"
+
+#: inc/template-tags.php:107
+msgid "Quotes"
+msgstr "ציטוטים"
+
+#: inc/template-tags.php:111
+msgid "Statuses"
+msgstr "סטטוסים"
+
+#: inc/template-tags.php:113
+msgid "Audio"
+msgstr "אודיו"
+
+#: inc/template-tags.php:115
+msgid "Chats"
+msgstr "צ'אטים"
+
+#: inc/template-tags.php:118
+msgid "Archives: %s"
+msgstr "ארכיון: %s"
+
+#: inc/template-tags.php:122
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:210
+msgid "Pingback:"
+msgstr "פינגבאק:"
+
+#: inc/template-tags.php:222
+msgid "%1$s at %2$s"
+msgstr "%1$s בשעה %2$s"
+
+#: inc/template-tags.php:226
+msgid "Your comment is awaiting moderation."
+msgstr "התגובה ממתינה לאישור."
+
+#: inc/template-tags.php:305
+msgid "Older posts"
+msgstr "פוסטים ישנים"
+
+#: inc/template-tags.php:309
+msgid "Newer posts"
+msgstr "פוסטים חדשים"
+
+#: inc/template-tags.php:346
+msgid "Read More..."
+msgstr "להמשך קריאה..."
+
+#: inc/widgets/widget-about.php:10 inc/widgets/widget-blog.php:10
+#: inc/widgets/widget-clients.php:10 inc/widgets/widget-featured.php:10
+#: inc/widgets/widget-projects.php:10 inc/widgets/widget-services.php:10
+#: inc/widgets/widget-slider.php:10 inc/widgets/widget-social.php:10
+msgid "Great"
+msgstr ""
+
+#: inc/widgets/widget-about.php:61 inc/widgets/widget-blog.php:77
+#: inc/widgets/widget-clients.php:66 inc/widgets/widget-featured.php:50
+#: inc/widgets/widget-projects.php:71 inc/widgets/widget-services.php:70
+#: inc/widgets/widget-slider.php:35 inc/widgets/widget-social.php:50
+msgid "Visit customizer for settings."
+msgstr ""
+
+#: inc/widgets/widget-social.php:10
+msgid "Social"
+msgstr "חברתי"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "תוצאות חיפוש עבור %s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "חפש:"
+
+#: searchform.php:13
+msgid "Search &hellip;"
+msgstr "חיפוש &hellip;"
+
+#: searchform.php:14 searchform.php:15
+msgid "Search"
+msgstr "חיפוש"

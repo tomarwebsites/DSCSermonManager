@@ -1,0 +1,881 @@
+# This file is distributed under the same license as the Great package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Great\n"
+"POT-Creation-Date: 2017-02-20 21:05+0300\n"
+"PO-Revision-Date: 2017-02-21 01:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: Alvele.com\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_ex;_x;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oida! Den siden finnes ikke."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det ser ikke ut til at noe ble funnet på denne adressen. Kanskje du kan prøve et søk?"
+
+#: comments.php:36 comments.php:57
+msgid "Comment navigation"
+msgstr "Kommentarnavigasjon"
+
+#: comments.php:39 comments.php:60
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: comments.php:40 comments.php:61
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Det er stengt for kommentarer."
+
+#: comments.php:83
+msgid "Name"
+msgstr "Navn"
+
+#: comments.php:84 inc/options-config.php:532 inc/options-config.php:538
+#: inc/options-config.php:544
+msgid "Email"
+msgstr "E-post"
+
+#: comments.php:85
+msgid "Website"
+msgstr "Nettsted"
+
+#: comments.php:90
+msgid "Post Comment"
+msgstr "Publiser kommentar"
+
+#: comments.php:92
+msgid "Comment"
+msgstr "Kommentar"
+
+#: comments.php:93
+msgid "Cancel reply"
+msgstr "Avbryt svar"
+
+#: content-none.php:14
+msgid "Nothing Found"
+msgstr "Ingenting funnet"
+
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar for å skrive ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men det ble ikke funnet noe som passet det du søkte etter. Vennligst prøv med noen andre søkeord."
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Vi klarer ikke å finne det du leter etter. Prøv å søke."
+
+#: content-page.php:25 inc/template-tags.php:42 inc/template-tags.php:210
+#: inc/template-tags.php:223
+msgid "Edit"
+msgstr "Rediger"
+
+#: content-page.php:36 content-single.php:27 content.php:36
+msgid "Pages:"
+msgstr "Sider:"
+
+#: content.php:28
+msgid "Continue reading %s"
+msgstr "Fortsett å lese %s"
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr "Primærmeny"
+
+#: functions.php:56
+msgid "Footer Menu"
+msgstr "Bunnmeny"
+
+#: functions.php:104 inc/options-config.php:843
+msgid "Sidebar"
+msgstr "Sidekolonnen"
+
+#: functions.php:113 inc/options-config.php:72 inc/options-config.php:145
+#: inc/options-config.php:218 inc/options-config.php:275
+#: inc/options-config.php:356 inc/options-config.php:483
+#: inc/options-config.php:598 inc/options-config.php:998
+#: inc/options-config.php:1043
+msgid "Header"
+msgstr "Sidetopp"
+
+#: functions.php:122 inc/options-config.php:650 inc/options-config.php:798
+msgid "Front Page"
+msgstr "Forside"
+
+#: functions.php:131 functions.php:140 functions.php:149
+#: inc/options-config.php:380 inc/options-config.php:604
+#: inc/options-config.php:763 inc/options-config.php:1097
+msgid "Footer"
+msgstr "Bunntekst"
+
+#: functions.php:131
+msgid "Left"
+msgstr "Venstre"
+
+#: functions.php:140
+msgid "Center"
+msgstr "Senter"
+
+#: functions.php:149
+msgid "Right"
+msgstr "Høyre"
+
+#: header.php:23
+msgid "Skip to content"
+msgstr "Gå til innhold"
+
+#: header.php:61 inc/options-config.php:1152
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:63
+msgid "Close"
+msgstr "Lukk"
+
+#: image.php:24
+msgid "Previous"
+msgstr "Forrige"
+
+#: image.php:25
+msgid "Next"
+msgstr "Neste"
+
+#: inc/admin/class.customized-controls.php:36
+#: inc/admin/class.customized-controls.php:59
+#: inc/admin/class.customized-controls.php:108
+msgid "Upgrade"
+msgstr "Oppgrader"
+
+#: inc/admin/class.customized-controls.php:182
+msgid "Do you like this theme?"
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:184
+msgid "Please write a review and to promote your website!"
+msgstr ""
+
+#: inc/admin/class.customized-controls.php:188
+msgid "Support Forums"
+msgstr "Supportforum"
+
+#: inc/admin/class.customizer-api-wrapper.php:258 inc/options-config.php:7
+#: inc/options-config.php:906
+msgid "Hide"
+msgstr "Skjul"
+
+#: inc/extras.php:67
+msgid "Page %s"
+msgstr "Side %s"
+
+#: inc/extras.php:124 inc/options-config.php:718 inc/options-config.php:719
+#: inc/options-config.php:1135
+msgid "Read more..."
+msgstr "Les mer…"
+
+#: inc/extras.php:224
+#, php-format
+msgid "Copyright &copy; %1$d %2$s."
+msgstr ""
+
+#: inc/extras.php:224
+msgid "Powered by WordPress"
+msgstr "Drives med kraft fra WordPress"
+
+#: inc/extras.php:224
+#, php-format
+msgid "<span>%s is using the Great WordPress theme</span>"
+msgstr ""
+
+#: inc/featured-pages.php:35 inc/options-config.php:323
+msgid "Learn More"
+msgstr "Lære mer"
+
+#: inc/options-config.php:15 inc/options-config.php:67
+#: inc/options-config.php:135 inc/options-config.php:207
+#: inc/options-config.php:270 inc/options-config.php:993
+#: inc/options-config.php:1038
+#, php-format
+msgid "First, please enable '%s' widget."
+msgstr ""
+
+#: inc/options-config.php:15 inc/options-config.php:37
+#: inc/options-config.php:966 inc/widgets/widget-slider.php:10
+msgid "Slider"
+msgstr ""
+
+#: inc/options-config.php:21
+msgid "Hide texts"
+msgstr ""
+
+#: inc/options-config.php:27 inc/options-config.php:611
+msgid "Style"
+msgstr "Stil"
+
+#: inc/options-config.php:42 inc/options-config.php:304
+msgid "Select Page"
+msgstr "Velg side"
+
+#: inc/options-config.php:42 inc/options-config.php:304
+msgid "Featured Image"
+msgstr "Fremhevet bilde"
+
+#: inc/options-config.php:42 inc/options-config.php:304
+msgid "(required)"
+msgstr "(obligatorisk)"
+
+#: inc/options-config.php:50 inc/options-config.php:83
+#: inc/options-config.php:101 inc/options-config.php:156
+#: inc/options-config.php:229 inc/options-config.php:286
+#: inc/options-config.php:436 inc/options-config.php:1009
+#: inc/options-config.php:1054 inc/options-config.php:1141
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/options-config.php:55 inc/options-config.php:122
+#: inc/options-config.php:195 inc/options-config.php:258
+#: inc/options-config.php:340 inc/options-config.php:430
+#: inc/options-config.php:526 inc/options-config.php:544
+#: inc/options-config.php:562 inc/options-config.php:580
+msgid "Custom Link"
+msgstr "Egendefinert lenke"
+
+#: inc/options-config.php:67 inc/options-config.php:978
+#: inc/widgets/widget-services.php:10
+msgid "Services"
+msgstr ""
+
+#: inc/options-config.php:77 inc/options-config.php:112
+#: inc/options-config.php:150 inc/options-config.php:185
+#: inc/options-config.php:223 inc/options-config.php:253
+#: inc/options-config.php:280 inc/options-config.php:446
+#: inc/options-config.php:448 inc/options-config.php:780
+#: inc/options-config.php:1003 inc/options-config.php:1048
+#: inc/options-config.php:1078 inc/options-config.php:1105
+msgid "Title"
+msgstr "Tittel"
+
+#: inc/options-config.php:88 inc/options-config.php:117
+#: inc/options-config.php:161 inc/options-config.php:190
+#: inc/options-config.php:234 inc/options-config.php:291
+#: inc/options-config.php:368 inc/options-config.php:392
+#: inc/options-config.php:410 inc/options-config.php:1059
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: inc/options-config.php:96
+msgid "Service"
+msgstr "tjeneste"
+
+#: inc/options-config.php:107 inc/options-config.php:180
+#: inc/options-config.php:442 inc/options-config.php:936
+#: inc/options-config.php:1123 inc/options-config.php:1147
+msgid "Color"
+msgstr "Farge"
+
+#: inc/options-config.php:135 inc/options-config.php:982
+#: inc/widgets/widget-projects.php:10
+msgid "Projects"
+msgstr ""
+
+#: inc/options-config.php:140 inc/options-config.php:212
+#: inc/options-config.php:488
+msgid "Suggested image dimensions:"
+msgstr "Anbefalte bildedimensjoner:"
+
+#: inc/options-config.php:169
+msgid "Project"
+msgstr "prosjekt"
+
+#: inc/options-config.php:175
+msgid "Image"
+msgstr "Bilde"
+
+#: inc/options-config.php:207 inc/options-config.php:986
+#: inc/widgets/widget-clients.php:10
+msgid "Clients"
+msgstr ""
+
+#: inc/options-config.php:242
+msgid "Client"
+msgstr ""
+
+#: inc/options-config.php:248 inc/options-config.php:855
+#: inc/options-config.php:860 inc/options-config.php:870
+#: inc/options-config.php:881 inc/options-config.php:892
+msgid "Logo"
+msgstr ""
+
+#: inc/options-config.php:270 inc/options-config.php:970
+#: inc/widgets/widget-featured.php:10
+msgid "Featured Pages"
+msgstr ""
+
+#: inc/options-config.php:299 inc/template-tags.php:299
+msgid "Page"
+msgstr "Side"
+
+#: inc/options-config.php:311
+msgid "Page title"
+msgstr "Sidetittel"
+
+#: inc/options-config.php:317
+msgid "Alternative Text"
+msgstr "Alternativ tekst"
+
+#: inc/options-config.php:322
+msgid "Button Text"
+msgstr ""
+
+#: inc/options-config.php:329
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/options-config.php:335
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/options-config.php:351 inc/options-config.php:486
+msgid "Hint"
+msgstr ""
+
+#: inc/options-config.php:353
+msgid "If you want to hide the icon, set the icon field as empty."
+msgstr ""
+
+#: inc/options-config.php:361 inc/options-config.php:385
+msgid "Enable"
+msgstr "Aktiver"
+
+#: inc/options-config.php:373 inc/options-config.php:397
+#: inc/options-config.php:415 inc/options-config.php:860
+msgid "Size"
+msgstr "Størrelse"
+
+#: inc/options-config.php:404
+msgid "Social Widget"
+msgstr ""
+
+#: inc/options-config.php:454
+msgid "Enter the URL"
+msgstr "Skriv inn URL"
+
+#: inc/options-config.php:459
+msgid "Open link in a new window/tab"
+msgstr "Åpne lenken i nytt vindu / fane"
+
+#: inc/options-config.php:479
+msgid "Great Theme Options"
+msgstr ""
+
+#: inc/options-config.php:493
+msgid "Logo Upload"
+msgstr "Logoopplasting"
+
+#: inc/options-config.php:498
+msgid "Site Icon"
+msgstr "Nettstedsikon"
+
+#: inc/options-config.php:504
+msgid "A search form for your site."
+msgstr "Et søkefelt for ditt nettsted."
+
+#: inc/options-config.php:509 inc/options-config.php:585
+msgid "Contact Info"
+msgstr "Kontaktinfo"
+
+#: inc/options-config.php:514 inc/options-config.php:520
+#: inc/options-config.php:526
+msgid "Address"
+msgstr "adresse"
+
+#: inc/options-config.php:520 inc/options-config.php:538
+#: inc/options-config.php:556 inc/options-config.php:574
+#: inc/options-config.php:665 inc/options-config.php:758
+#: inc/options-config.php:786 inc/options-config.php:930
+#: inc/options-config.php:1157 inc/options-config.php:1173
+msgid "Text color"
+msgstr "Tekstfarge"
+
+#: inc/options-config.php:550 inc/options-config.php:556
+#: inc/options-config.php:562
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: inc/options-config.php:568 inc/options-config.php:574
+#: inc/options-config.php:580
+msgid "Hours"
+msgstr "Åpningstider"
+
+#: inc/options-config.php:569
+msgid "Monday"
+msgstr "mandag"
+
+#: inc/options-config.php:569
+msgid "Friday"
+msgstr "fredag"
+
+#: inc/options-config.php:590 inc/options-config.php:848
+#: inc/options-config.php:892 inc/options-config.php:912
+#: inc/options-config.php:1025
+msgid "Alignment"
+msgstr "Stille opp"
+
+#: inc/options-config.php:593 inc/options-config.php:852
+#: inc/options-config.php:895 inc/options-config.php:1028
+msgid "Align Left"
+msgstr "Venstrestill"
+
+#: inc/options-config.php:594 inc/options-config.php:851
+#: inc/options-config.php:897 inc/options-config.php:1030
+msgid "Align Right"
+msgstr "Høyrestill"
+
+#: inc/options-config.php:611
+msgid "Display Settings"
+msgstr "Vis innstillinger"
+
+#: inc/options-config.php:615
+msgid "Primary Color"
+msgstr "Color"
+
+#: inc/options-config.php:622 inc/options-config.php:640
+#: inc/options-config.php:943
+msgid "Background Image"
+msgstr "Bakgrunnsbilde"
+
+#: inc/options-config.php:622 inc/options-config.php:627
+#: inc/options-config.php:633
+msgid "Content"
+msgstr "Innhold"
+
+#: inc/options-config.php:627
+msgid "Border color"
+msgstr "Rammefarge"
+
+#: inc/options-config.php:633 inc/options-config.php:645
+#: inc/options-config.php:768 inc/options-config.php:774
+msgid "Background color"
+msgstr "Bakgrunnsfarge"
+
+#: inc/options-config.php:640 inc/options-config.php:645
+#: inc/options-config.php:774 inc/options-config.php:780
+#: inc/options-config.php:786
+msgid "Widgets"
+msgstr "Widgeter"
+
+#: inc/options-config.php:655
+msgid "Your latest posts"
+msgstr "Dine siste innlegg"
+
+#: inc/options-config.php:660
+msgid "All Posts"
+msgstr "Alle innlegg"
+
+#: inc/options-config.php:671 inc/options-config.php:1136
+msgid "Link Text"
+msgstr "Lenketekst"
+
+#: inc/options-config.php:677 inc/options-config.php:923
+#: inc/options-config.php:1179
+msgid "Font Sizes"
+msgstr "Skriftstørrelse"
+
+#: inc/options-config.php:684
+msgid "Enable featured image header for pages"
+msgstr ""
+
+#: inc/options-config.php:690
+msgid "Enable featured image header for posts"
+msgstr ""
+
+#: inc/options-config.php:696
+msgid "Posts navigation"
+msgstr "Innleggnavigasjon"
+
+#: inc/options-config.php:701
+msgid "Excerpt View"
+msgstr "Utdragsvisning"
+
+#: inc/options-config.php:706
+msgid "Auto excerpt length"
+msgstr ""
+
+#: inc/options-config.php:712
+msgid "..."
+msgstr ""
+
+#: inc/options-config.php:713
+msgid "More string at the end of the excerpt"
+msgstr ""
+
+#: inc/options-config.php:723
+msgid "Metadata"
+msgstr "Metadata"
+
+#: inc/options-config.php:728 inc/options-config.php:1090
+msgid "Display post date?"
+msgstr "Vis innleggsdato?"
+
+#: inc/options-config.php:734
+msgid "Comments Count &amp; Link"
+msgstr ""
+
+#: inc/options-config.php:740
+msgid "Display item author if available?"
+msgstr "Vis elementets forfatter hvis tilgjengelig?"
+
+#: inc/options-config.php:746
+msgid "View Category"
+msgstr "Se kategori"
+
+#: inc/options-config.php:752
+msgid "View Tag"
+msgstr "Se stikkord"
+
+#: inc/options-config.php:794
+msgid "Reading Settings"
+msgstr "Leseinnstillinger"
+
+#: inc/options-config.php:801 inc/options-config.php:809
+#: inc/options-config.php:817
+msgid "Summary"
+msgstr "Sammendrag"
+
+#: inc/options-config.php:802 inc/options-config.php:810
+#: inc/options-config.php:818
+msgid "Full text"
+msgstr "Hele teksten"
+
+#: inc/options-config.php:806 inc/template-tags.php:124
+msgid "Archives"
+msgstr "Arkiv"
+
+#: inc/options-config.php:814
+msgid "Search Results"
+msgstr "Søkeresultater"
+
+#: inc/options-config.php:823
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/options-config.php:827
+msgid "Site size"
+msgstr ""
+
+#: inc/options-config.php:830 inc/options-config.php:951
+msgid "Default"
+msgstr "Standard"
+
+#: inc/options-config.php:831
+msgid "Full Size"
+msgstr "Full størrelse"
+
+#: inc/options-config.php:832 inc/options-config.php:836
+msgid "Custom Size"
+msgstr "Tilpasset størrelse"
+
+#: inc/options-config.php:860
+msgid "Set to 0 for default."
+msgstr ""
+
+#: inc/options-config.php:870
+msgid "Vertical space"
+msgstr "Vertikalt mellomrom"
+
+#: inc/options-config.php:881
+msgid "Horizontal space"
+msgstr "Horisontalt mellomrom"
+
+#: inc/options-config.php:896 inc/options-config.php:1029
+msgid "Align Center"
+msgstr "Midtstill"
+
+#: inc/options-config.php:902
+msgid "Menu Settings"
+msgstr "Menyinnstillinger"
+
+#: inc/options-config.php:906
+msgid "Main menu"
+msgstr "Hovedmeny"
+
+#: inc/options-config.php:915
+msgid "Align center"
+msgstr "Midtstill"
+
+#: inc/options-config.php:916
+msgid "Align left"
+msgstr "Venstrestill"
+
+#: inc/options-config.php:917
+msgid "Align right"
+msgstr "Høyrestill"
+
+#: inc/options-config.php:948
+msgid "Image size"
+msgstr ""
+
+#: inc/options-config.php:952
+msgid "Fit to menu"
+msgstr ""
+
+#: inc/options-config.php:956
+msgid "Background Position"
+msgstr ""
+
+#: inc/options-config.php:959
+msgid "Top"
+msgstr "Topp"
+
+#: inc/options-config.php:960
+msgid "Bottom"
+msgstr "Bunn"
+
+#: inc/options-config.php:974
+msgid "Social Media"
+msgstr "Sosiale medier"
+
+#: inc/options-config.php:990 inc/options-config.php:993
+#: inc/widgets/widget-about.php:10
+msgid "About"
+msgstr "Om oss"
+
+#: inc/options-config.php:1014
+msgid "In a few words, explain what this site is about."
+msgstr "Forklar med få ord hva dette nettstedet handler om."
+
+#: inc/options-config.php:1020
+msgid "Add an About page"
+msgstr "Legg til en Om meg- eller Om oss-side"
+
+#: inc/options-config.php:1035 inc/options-config.php:1038
+#: inc/widgets/widget-blog.php:10
+msgid "Blog"
+msgstr "Blogg"
+
+#: inc/options-config.php:1063
+msgid "Source"
+msgstr "Kilde"
+
+#: inc/options-config.php:1069
+msgid "Select Category"
+msgstr "Velg kategori"
+
+#: inc/options-config.php:1073
+msgid "Display Options"
+msgstr "Visningsinnstillinger"
+
+#: inc/options-config.php:1084
+msgid "Display item content?"
+msgstr "Vis elementets innhold?"
+
+#: inc/options-config.php:1100 inc/options-config.php:1111
+#: inc/options-config.php:1123
+msgid "Quote"
+msgstr "Sitat"
+
+#: inc/options-config.php:1118
+msgid "Author"
+msgstr "Forfatter"
+
+#: inc/options-config.php:1130 inc/options-config.php:1147
+msgid "Link"
+msgstr "Lenke"
+
+#: inc/options-config.php:1162
+msgid "Footer information text"
+msgstr ""
+
+#: inc/options-config.php:1168
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/options-config.php:1190
+msgid "Advanced Options"
+msgstr "Avanserte alternativer"
+
+#: inc/options-config.php:1194
+msgid "Custom CSS Styles"
+msgstr "Egendefinerte CSS-stiler"
+
+#: inc/options-config.php:1200
+msgid "Restore Defaults"
+msgstr "Gjenopprett Standardinnstillinger"
+
+#: inc/options-config.php:1205 inc/template-tags.php:109
+msgid "Links"
+msgstr "Lenker"
+
+#: inc/options-config.php:1253
+msgid "Refresh the page to view full effects."
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: inc/template-tags.php:38
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:38
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:52
+msgid "Featured"
+msgstr "Fremhevet"
+
+#: inc/template-tags.php:65 inc/template-tags.php:71
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: inc/template-tags.php:88
+msgid "Tag: %s"
+msgstr "Stikkord: %s"
+
+#: inc/template-tags.php:90
+msgid "Author: %s"
+msgstr "Forfatter: %s"
+
+#: inc/template-tags.php:92
+msgid "Year: %s"
+msgstr "År: %s"
+
+#: inc/template-tags.php:92
+msgid "Y"
+msgstr "Y"
+
+#: inc/template-tags.php:94
+msgid "Month: %s"
+msgstr "Måned: %s"
+
+#: inc/template-tags.php:94
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/template-tags.php:96
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: inc/template-tags.php:96
+msgid "F j, Y"
+msgstr "j. F Y"
+
+#: inc/template-tags.php:99
+msgid "Asides"
+msgstr "Notiser"
+
+#: inc/template-tags.php:101
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: inc/template-tags.php:103
+msgid "Images"
+msgstr "Bilder"
+
+#: inc/template-tags.php:105
+msgid "Videos"
+msgstr "Videoer"
+
+#: inc/template-tags.php:107
+msgid "Quotes"
+msgstr "Sitater"
+
+#: inc/template-tags.php:111
+msgid "Statuses"
+msgstr "Statusoppdateringer"
+
+#: inc/template-tags.php:113
+msgid "Audio"
+msgstr "Lyd"
+
+#: inc/template-tags.php:115
+msgid "Chats"
+msgstr "Samtaler"
+
+#: inc/template-tags.php:118
+msgid "Archives: %s"
+msgstr "Arkiv: %s"
+
+#: inc/template-tags.php:122
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:210
+msgid "Pingback:"
+msgstr "Tilbaketråkk:"
+
+#: inc/template-tags.php:222
+msgid "%1$s at %2$s"
+msgstr "%1$s, kl. %2$s"
+
+#: inc/template-tags.php:226
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar avventer moderasjon."
+
+#: inc/template-tags.php:305
+msgid "Older posts"
+msgstr "Eldre innlegg"
+
+#: inc/template-tags.php:309
+msgid "Newer posts"
+msgstr "Nyere innlegg"
+
+#: inc/template-tags.php:346
+msgid "Read More..."
+msgstr "Les mer…"
+
+#: inc/widgets/widget-about.php:10 inc/widgets/widget-blog.php:10
+#: inc/widgets/widget-clients.php:10 inc/widgets/widget-featured.php:10
+#: inc/widgets/widget-projects.php:10 inc/widgets/widget-services.php:10
+#: inc/widgets/widget-slider.php:10 inc/widgets/widget-social.php:10
+msgid "Great"
+msgstr ""
+
+#: inc/widgets/widget-about.php:61 inc/widgets/widget-blog.php:77
+#: inc/widgets/widget-clients.php:66 inc/widgets/widget-featured.php:50
+#: inc/widgets/widget-projects.php:71 inc/widgets/widget-services.php:70
+#: inc/widgets/widget-slider.php:35 inc/widgets/widget-social.php:50
+msgid "Visit customizer for settings."
+msgstr ""
+
+#: inc/widgets/widget-social.php:10
+msgid "Social"
+msgstr "Sosialt"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#: searchform.php:13
+msgid "Search &hellip;"
+msgstr "Søk &hellip;"
+
+#: searchform.php:14 searchform.php:15
+msgid "Search"
+msgstr "Søk"
